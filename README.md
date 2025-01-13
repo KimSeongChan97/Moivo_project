@@ -113,7 +113,7 @@
 
 ```
 조강민
-E-mail : 
+E-mail : jomin5151@gmail.com
 ```
 
 ```
@@ -123,17 +123,17 @@ E-mail : sck2270@naver.com
 
 ```
 김태원
-E-mail : 
+E-mail : dior911124@gmail.com
 ```
 
 ```
 전수민
-E-mail : 
+E-mail : wjstnals5@naver.com
 ```
 
 ```
 양재영
-E-mail : 
+E-mail : didwodud7@naver.com
 ```
 
 ```
@@ -143,5 +143,5 @@ E-mail : ujin302@gmail.com
 
 ```
 장훈
-E-mail : 
+E-mail : wkdgns9797@naver.com
 ```
